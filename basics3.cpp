@@ -18,7 +18,7 @@ class Book {
 int main()
 {
     
-    //Object
+    //Objects
     Book book1("Harry Potter","JK rowling", 500);
     Book book2("LODR","Tolkein", 700);
 

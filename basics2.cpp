@@ -10,7 +10,7 @@ int main() {
     string name = "Mike";
     string *pName = &name;
 
-    //Pointers
+    //Pointer
     cout << &age << endl;
     cout << "Age: " << &age << endl;
     cout << "Gpa: " << &gpa << endl;

@@ -16,7 +16,7 @@ class Chef {
     }
 };
 
-//Sub Class
+//Sub Classes
 class ItalianChef : public Chef{
     public:
         void makePasta(){

@@ -20,7 +20,7 @@ class Student {
     }
 };
 
-//Object Functions
+//Object Function
 int main()
 {
     Student student1("Jim", "Business", 2.4);

@@ -9,7 +9,7 @@ int main(){
 
                         };
 
-    //cout << numberGrid[2][1];
+    //cout << numberGrid[2][1]
 
     //Nested For Loop
     for(int i = 0; i < 3; i++){

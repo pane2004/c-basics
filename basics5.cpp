@@ -1,7 +1,7 @@
 #include <iostream>
 using namespace std;
 
-//Getter Setter
+//Getter Setters
 class Movie {
     private: 
         string rating;
